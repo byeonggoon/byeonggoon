@@ -1,6 +1,6 @@
  👋This is byeonggoon'github👋
  
- ⚡more scripts  https://blog.naver.com/qudrnsektzja⚡
+ ⚡ more scripts  https://blog.naver.com/qudrnsektzja ⚡
 
 
 
