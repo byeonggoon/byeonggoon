@@ -1,4 +1,5 @@
  👋This is byeonggoon'github👋
+ ⚡more scripts https://blog.naver.com/qudrnsektzja⚡
 
 <!--
 **byeonggoon/byeonggoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
